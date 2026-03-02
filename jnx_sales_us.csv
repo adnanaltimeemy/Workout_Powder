@@ -1,0 +1,2 @@
+date,country,region_or_city,sku,flavor,servings_per_tub,units_sold,revenue_local,cost_of_goods_sold,shipping_cost,platform_fees,other_expenses,gross_profit,gross_margin_pct,18-25_male_count,26-40_male_count,18-25_female_count,26-40_female_count,18-25_male_share_pct,26-40_male_share_pct,18-25_female_share_pct,26-40_female_share_pct,notes,data_source
+2026-02-01,US,CA,The Curse! Watermelon 50,Watermelon,50,8,227.92,120.0,28.0,12.0,40.0,27.92,12.25,1,2,2,3,12.5,25.0,25.0,37.5,Sample row; replace with actual sales data.,Online order log placeholder
