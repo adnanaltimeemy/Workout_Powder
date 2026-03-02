@@ -1,0 +1,2 @@
+date,region,product_sku,product_name,units_sold,unit_price_usd,revenue_usd,cost_per_box_usd,total_cost_usd,gross_profit_usd,gross_margin_pct,share_health_conscious_adults_pct,share_fitness_enthusiasts_pct,share_teens_college_pct,share_general_snackers_pct,notes
+2025-12-31,US,WAR-Raw-CB-12x75,Warrior RAW Protein Flapjack - Chocolate Brownie,120,26.0,3120.0,14.5,1740.0,1380.0,44.23,40.0,30.0,15.0,15.0,US listing sold out; model for import channel

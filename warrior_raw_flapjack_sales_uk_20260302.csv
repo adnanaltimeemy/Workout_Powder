@@ -1,0 +1,2 @@
+date,region,product_sku,product_name,units_sold,unit_price_gbp,revenue_gbp,cost_per_box_gbp,total_cost_gbp,gross_profit_gbp,gross_margin_pct,share_health_conscious_adults_pct,share_fitness_enthusiasts_pct,share_teens_college_pct,share_general_snackers_pct,notes
+2025-12-31,UK,WAR-Raw-CB-12x75,Warrior RAW Protein Flapjack - Chocolate Brownie,850,10.99,9341.5,6.5,5525.0,3816.5,40.86,35.0,25.0,20.0,20.0,"UK promotional price, decent stock"
