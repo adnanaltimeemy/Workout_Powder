@@ -1,0 +1,2 @@
+Country,Year,AudienceSegment,Sales_USD,Units_Sold,Gross_Profit_USD,Gross_Margin_pct,Operating_Profit_USD,Operating_Margin_pct,Marketing_Spend_USD,Price_per_Unit_USD,Data_Source,Confidence_Level,Notes
+UK,2024,Adults,,,,,,,,,Placeholder,Low,Awaiting purchase data
