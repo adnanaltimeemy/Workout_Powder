@@ -1,0 +1,2 @@
+Country,Product,SKU,Period_Start,Period_End,Units_Sold,Net_Sales,COGS,Gross_Profit,Gross_Profit_Margin,Channel_Retail_Units,Channel_Online_Units,Channel_Wholesale_Units,Age_Under_5_Units,Age_5_8_Units,Age_9_12_Units,Age_13plus_Units,Gender_Male_Units,Gender_Female_Units,Gender_Other_Units,Region,Notes
+UK,PAW Patrol Multivitamin Fizzy,PP-FIZZY-2x30,2025-01-01,2025-01-31,1200,15588.0,9000.0,6588.0,0.4226327944572748,800,300,100,400,600,150,50,650,520,30,South East,Example data; actual figures to be inserted.
