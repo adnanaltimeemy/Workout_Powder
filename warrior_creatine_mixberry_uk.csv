@@ -1,0 +1,3 @@
+date,channel,units_sold,unit_price_local,cost_of_goods_sold_local,marketing_cost_local,demog_age_18_24_pct,demog_age_25_34_pct,demog_age_35_44_pct,demog_age_45_54_pct,demog_age_55_plus_pct,demog_male_pct,demog_female_pct,demog_other_pct,notes,revenue_local,gross_profit_local,gross_margin_pct,net_profit_local,net_margin_pct
+2026-02-01,Retail,120,18.99,1020.0,150.0,25.0,45.0,20.0,7.0,3.0,70.0,28.0,2.0,Mixed Berry flavor; normal retail,2278.8,1258.8,55.2,1108.8,48.7
+2026-02-01,Ecommerce,80,18.99,680.0,120.0,30.0,40.0,20.0,5.0,5.0,75.0,23.0,2.0,Online sale period,1519.2,839.2,55.2,719.2,47.3

@@ -1,0 +1,3 @@
+region,date,product_name,units_sold,unit_price,revenue,cost_of_goods_sold,gross_profit,gross_margin_pct,marketing_cost,net_profit,net_margin_pct,age_18_24_pct,age_25_34_pct,age_35_44_pct,age_45_plus_pct,use_sports_performance_pct,use_weight_loss_pct,use_athletic_training_pct,use_recreational_fitness_pct,notes
+UK,2026-02-28,Kingslayer Pre Workout – Frozen Blue Ice,120,34.99,4198.8,1800.0,2398.8,57.130608745355815,400.0,1998.8000000000002,47.60407735543489,20.0,30.0,25.0,25.0,40.0,20.0,25.0,15.0,Sample values; replace with real data.
+US,2026-02-28,Kingslayer Pre Workout – Frozen Blue Ice,75,59.99,4499.25,1650.0,2849.25,63.327221203533924,350.0,2499.25,55.54814691337445,18.0,32.0,30.0,20.0,45.0,18.0,22.0,15.0,Sample values; replace with real data.
